@@ -1,6 +1,7 @@
 # Algorithm_03
 
 1.Model
+
 - Model 1: 3 Layer Model with 1 Convolution Layer
 
 -Code-
@@ -24,9 +25,11 @@
 - Model 3: 7 Layer Model with 4 Convolution Layer
 
 -Code-
+
 ![Model3](https://user-images.githubusercontent.com/39620377/83325213-95844a80-a2a5-11ea-8690-7887331a5f4a.png)
 
 -Summary-
+
 ![Model3_sum](https://user-images.githubusercontent.com/39620377/83325209-94ebb400-a2a5-11ea-8031-acfd0fbb5fe4.png)
 
 
@@ -46,6 +49,7 @@
 
 
 3.Test Accuracy
+
 - Model 1
 
 ![Model1_accuracy](https://user-images.githubusercontent.com/39620377/83325191-7e455d00-a2a5-11ea-8882-8fcee5672eaa.png)
