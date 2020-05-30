@@ -1,18 +1,21 @@
 # Algorithm_03
 1.Model
 - Model 1: 3 Layer Model with 1 Convolution Layer
-
+-Code-
 ![Model1](https://user-images.githubusercontent.com/39620377/83325190-7dacc680-a2a5-11ea-87ca-a8a4f7903c11.png)
+-Summary-
 ![Model1_sum](https://user-images.githubusercontent.com/39620377/83325193-7eddf380-a2a5-11ea-83c1-0668aaa19e64.png)
 
-- Model 2:
-
+- Model 2: 5 Layer Model with 2 Convolution Layer
+-Code-
 ![Model2](https://user-images.githubusercontent.com/39620377/83325207-8ef5d300-a2a5-11ea-82cc-9118deacd944.png)
+-Summary-
 ![Model2_sum](https://user-images.githubusercontent.com/39620377/83325204-8e5d3c80-a2a5-11ea-9797-d279ae264f33.png)
 
-- Model 3: 
-
+- Model 3: 7 Layer Model with 4 Convolution Layer
+-Code-
 ![Model3](https://user-images.githubusercontent.com/39620377/83325213-95844a80-a2a5-11ea-8690-7887331a5f4a.png)
+-Summary-
 ![Model3_sum](https://user-images.githubusercontent.com/39620377/83325209-94ebb400-a2a5-11ea-8031-acfd0fbb5fe4.png)
 
 
